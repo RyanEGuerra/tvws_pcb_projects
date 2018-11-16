@@ -29,7 +29,7 @@ PCB Picture | 3D PCB Model
 
 PCB Picture | 3D PCB Model
 :-------------------------:|:-------------------------:
-<img src="/wurc_d/WURC-D.jpg" width="300"> | <img src="/wurc_d/WURC-D_model.png" width="300">
+<img src="/wurc_d/WURC-D.png" width="300"> | <img src="/wurc_d/WURC-D_model.png" width="300">
 
 # How to Use
 
