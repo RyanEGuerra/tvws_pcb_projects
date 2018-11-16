@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=AGCCAL_Top_Level.SchDoc|Designator=U_MAX2014|SchDesignator=U_MAX2014|FileName=MAX2014.SchDoc|SymbolType=Device Sheet|RawFileName=MAX2014|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=AGCCAL_Top_Level.SchDoc|Designator=U_PCI_Express_X1_36Pin|SchDesignator=U_PCI_Express_X1_36Pin|FileName=CON_PCI_Express_X1_36PIN.SchDoc|SymbolType=Device Sheet|RawFileName=CON_PCI_Express_X1_36PIN|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=AGCCAL_Top_Level.SchDoc|Designator=U_Stellaris_LM3S5Y36|SchDesignator=U_Stellaris_LM3S5Y36|FileName=Stellaris_LM3S5Y36.SchDoc|SymbolType=Device Sheet|RawFileName=Stellaris_LM3S5Y36|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=AGCCAL_Top_Level.SchDoc
