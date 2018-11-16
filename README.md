@@ -7,11 +7,15 @@ PCB Picture | 3D PCB Model
 :-------------------------:|:-------------------------:
 <img src="/agc_test_board/agc_calibration_board.jpg" width="300"> | <img src="/agc_test_board/agc_calibration_board_model.png" width="300">
 
+Implements the Texas Instruments Stellaris LM3S5R36 and additional log-power detectors for the purpose of prototyping the automatic gain control section of a Lime Microsystems [LMS6002D](https://limemicro.com/technology/lms6002d/) field-programmable RF transceiver. This board was designed to communicate with an LMS6002D over a serial bus and allow us to prototype and develop the [LMS6002D library](https://github.com/RyanEGuerra/wurc_fw).
+
 ## rf_protoboard
 
 PCB Picture | 3D PCB Model
 :-------------------------:|:-------------------------:
 <img src="/rf_protoboard/rf_protoboard.jpg" width="300"> | <img src="/rf_protoboard/rf_protoboard_model.png" width="300">
+
+Implements a Qorvo TQP3M9009 and RFPA3800 amplifiers to create a broadband UHF-band transmit chain. This was developed to test [real-frequency techniques](https://www.wiley.com/en-us/Design+of+Ultra+Wideband+Power+Transfer+Networks-p-9780470319895) for designing wideband power-transfer and amplification networks.
 
 ## wab_1x1
 
@@ -19,17 +23,23 @@ PCB Picture | 3D PCB Model
 :-------------------------:|:-------------------------:
 <img src="/wab_1x1/WAB-1x1-C.jpg" width="300"> | <img src="/wab_1x1/WAB-1x1-C_model.PNG" width="300">
 
+Adapts a host FMC [Vita 57.1](https://www.samtec.com/standards/vita/fmc) connector to a daughtercard [HSMC](https://www.samtec.com/standards/hsmc) system while buffering and routing clocks. This was designed to work with the WURC daughtercard and the Mango Communications [WARPv3](https://mangocomm.com/products/kits/warp-v3-kit) platform.
+
 ## wab_1x4
 
 PCB Picture | 3D PCB Model
 :-------------------------:|:-------------------------:
 <img src="/wab_1x4/WAB-1x4-A.jpg" width="300"> | <img src="/wab_1x4/WAB-1x4-A_model.png" width="300">
 
+Adapts a host FMC [Vita 57.1](https://www.samtec.com/standards/vita/fmc) connector to up to 4x daughtercard [HSMC](https://www.samtec.com/standards/hsmc) systems while buffering and routing clocks and I/O signals. Also breaks out high-speed serial signals. This was designed to work with the WURC daughtercard and the Mango Communications [WARPv3](https://mangocomm.com/products/kits/warp-v3-kit) platform.
+
 ## wurc
 
 PCB Picture | 3D PCB Model
 :-------------------------:|:-------------------------:
 <img src="/wurc_d/WURC-D.png" width="300"> | <img src="/wurc_d/WURC-D_model.png" width="300">
+
+The Wideband UHF Radio Card (WURC) is a software-defined radio module designed for high-power operation on the UHF 470-698 MHz and ISM 2.4-2.5 GHz bands. An on-board microcontroller implements the [LMS6002D library](https://github.com/RyanEGuerra/wurc_fw) to control an agile RF transceiver and present high-level control macros to a host system. Additional amplifiers and switches allow the system to operate in TDD or FDD mode, as needed.
 
 # How to Use
 
