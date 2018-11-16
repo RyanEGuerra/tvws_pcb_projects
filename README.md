@@ -3,13 +3,33 @@ Altium PCB projects contained in Ryan E. Guerra's PhD thesis:  "Large-Scale Soft
 
 ## agc_test_board
 
+PCB Picture | 3D PCB Model
+:-------------------------:|:-------------------------:
+<img src="/agc_test_board/agc_calibration_board.jpg" width="300"> | <img src="/agc_test_board/agc_calibration_board_model.png" width="300">
+
 ## rf_protoboard
+
+PCB Picture | 3D PCB Model
+:-------------------------:|:-------------------------:
+<img src="/rf_protoboard/rf_protoboard.jpg" width="300"> | <img src="/rf_protoboard/rf_protoboard_model.png" width="300">
 
 ## wab_1x1
 
+PCB Picture | 3D PCB Model
+:-------------------------:|:-------------------------:
+<img src="/wab_1x1/WAB-1x1-C.jpg" width="300"> | <img src="/wab_1x1/WAB-1x1-C_model.PNG" width="300">
+
 ## wab_1x4
 
+PCB Picture | 3D PCB Model
+:-------------------------:|:-------------------------:
+<img src="/wab_1x4/WAB-1x4-A.jpg" width="300"> | <img src="/wab_1x4/WAB-1x4-A_model.png" width="300">
+
 ## wurc
+
+PCB Picture | 3D PCB Model
+:-------------------------:|:-------------------------:
+<img src="/wurc_d/WURC-D.jpg" width="300"> | <img src="/wurc_d/WURC-D_model.png" width="300">
 
 # How to Use
 
