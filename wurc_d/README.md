@@ -2,4 +2,4 @@
 ### Revision D
 
 
-<img src="WURC-D_diagram.png" width="600">
+<img src="WURC-D_diagram.png" width="900">
