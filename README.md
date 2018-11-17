@@ -57,6 +57,8 @@ Every PCB here has been manufactured and validated, however the prototype and te
 
 1. Signal integrity -- we've learned to follow good signal integrity and EMI-suppression practices over the years. Many of these designs do not follow best practices for continuous ground planes and return current paths, and we believe that WURC's clocking signals should be buried deep between power layers to avoid radiated emissions.
 
+1. Solder aperatures -- we've updated and optimized solder release for many of the parts within these libraries since they were archived. In general, less solder could be used on most of these aperatures, therefore you should shrink the solder paste aperatures. You won't have too much trouble, but it's a good place to start looking for issues if you have them.
+
 # License
 
 I have decided to release these designs into the public domain so that they might be useful to any student, professional, or business that is interested in reviewing a series of manufacturable PCB designs related to RF and microwave circuits. If you can use these designs in whole or in part for any purpose, commercial or otherwise, then good luck and Godspeed.
